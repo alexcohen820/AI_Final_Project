@@ -1,5 +1,4 @@
-# Gambling Participation Prediction (Abbreviated README)
-
+# Gambling Participation Prediction
 ## Overview
 
 This project evaluates how well demographic and socioeconomic data from the **American Community Survey (ACS)** predict **gambling participation rates by ZIP code**. The primary objective is to compare predictive performance across multiple modeling approaches.
