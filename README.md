@@ -27,6 +27,7 @@ Models evaluated:
 ## Evaluation Metrics
 
 * **RMSE**
+* **R2**
 
 ---
 
