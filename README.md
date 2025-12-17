@@ -13,7 +13,7 @@ Models evaluated:
 
 ## Data
 
-* **Outcome**: ZIP-code–level online gambling participation rate
+* **Outcome**: ZIP-code–level online gambling participation rate (data is proprietary and thus witheld from the excel dataset)
 * **Predictors**: ACS demographic and socioeconomic characteristics (e.g., sex, race/ethnicity, education, income, poverty, disability, household composition)
 
 ---
@@ -36,6 +36,3 @@ Models evaluated:
 To assess trade-offs between **interpretability** (LASSO) and **predictive performance** (RF, XGBoost) when modeling gambling participation using aggregated ACS data.
 
 ---
-
-## Note
-Data provided excludes gambling data as it is proprietary.
