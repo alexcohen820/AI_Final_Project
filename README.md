@@ -13,7 +13,7 @@ Models evaluated:
 
 ## Data
 
-* **Outcome**: ZIP-code–level online gambling participation rate (data is proprietary and thus witheld from the excel dataset)
+* **Outcome**: ZIP-code–level online gambling participation rate (This data is proprietary and thus is redacted; the gambling data provided are randomly generated for security)
 * **Predictors**: ACS demographic and socioeconomic characteristics (e.g., sex, race/ethnicity, education, income, poverty, disability, household composition)
 
 ---
